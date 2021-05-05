@@ -1,0 +1,8 @@
+{
+  "name": "test-module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LobsterMan/test-module.git",
+  "author": "Reuven Kaplan <reuvenk@drinkripples.com>",
+  "license": "MIT"
+}
